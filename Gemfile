@@ -13,4 +13,4 @@ end
 
 gem "wdm", "~> 0.2.0", :platforms => [:windows]
 gem "sass-embedded", "~> 1.62.1"
-gem "google-protobuf", "= 3.25.3"
+gem "google-protobuf", "3.25.8"
